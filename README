@@ -1,0 +1,15 @@
+TestingExtensions
+=================
+
+This is a collection of test helpers to be included in a project. Adds several assertions as well as shoulda extensions.
+
+List the assertions here...
+
+
+Example
+=======
+
+Example goes here.
+
+
+Copyright (c) 2008 Nathan Esquenazi, released under the MIT license
